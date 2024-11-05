@@ -1,11 +1,7 @@
 <template>
-<template>
-  <NuxtLayout>
-    <v-app>
-    aq
-       <VBtn/>
+  <VApp>
+    <NuxtLayout>
       <NuxtPage />
-    </v-app>
-  </NuxtLayout>
-</template>
+    </NuxtLayout>
+  </VApp>
 </template>
